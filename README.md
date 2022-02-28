@@ -4,4 +4,5 @@
 
 ### converting
 - git clone
-- create-react-app
+- keep github page open, delete cloned files
+- create-react-app .
